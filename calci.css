@@ -1,0 +1,18 @@
+input[type="button"]
+{
+    margin:auto;
+text-align: center;
+background-color: rgb(179, 179, 255);
+width: 100%;
+}
+table{
+    margin: auto;
+    width:13%;
+    border:2px solid black;
+    border-radius: 2px;
+    
+}
+body{
+    background-image: url(picture.jpg);
+    width:100%
+}
